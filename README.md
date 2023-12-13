@@ -23,7 +23,7 @@ python -u GNARKD-POMO\TSP\Test_file.py
 ```
 
 The detail performance is as follows.
-<p align="center"><img src="./imgs/performance.jpg" width=95%></p>
+<p align="center"><img src="./imgs/Performance.jpg" width=95%></p>
 
 
 ### Acknowledgments
