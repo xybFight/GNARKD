@@ -3,7 +3,7 @@
 
 The PyTorch Implementation of *AAAI 2024 -- "Distilling Autoregressive Models to Obtain High-Performance Non-Autoregressive Solvers for Vehicle Routing Problems with Faster Inference Speed"*.
 
-<p align="center"><img src="./imgs/main.png" width=95%></p>
+<p align="center"><img src="./imgs/main.jpg" width=95%></p>
 
 This paper introduce a novel and generic method for solving VRPs named GNARKD to transform AR models into NAR ones to improve the inference speed while preserving essential knowledge.
 
@@ -23,7 +23,7 @@ python -u GNARKD-POMO\TSP\Test_file.py
 ```
 
 The detail performance is as follows.
-![image](https://github.com/xybFight/GNARKD/imgs/Performance.jpg)
+<p align="center"><img src="./imgs/performance.jpg" width=95%></p>
 
 
 ### Acknowledgments
