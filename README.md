@@ -28,7 +28,7 @@ The detail performance is as follows.
 
 ### Acknowledgments
 
-* We would like to thank the anonymous reviewers and (S)ACs of AAAI 2024 for their constructive comments and dedicated service to the community. The reviews are available [here](https://github.com/xybFight/GNARKD/AAAI24_Comments.pdf).
+* We would like to thank the anonymous reviewers and (S)ACs of AAAI 2024 for their constructive comments and dedicated service to the community. The reviews are available [here]([https://github.com/xybFight/GNARKD/AAAI24_Comments.pdf](https://github.com/xybFight/GNARKD/blob/master/AAAI24_Comments.pdf)).
 
 * We also would like to thank the following repositories, which are baselines of our code:
 
