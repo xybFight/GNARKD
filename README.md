@@ -56,7 +56,7 @@ Or after the publication of the AAAI24 paper:
 @inproceedings{Ding2020,
   author={Yubin Xiao and Di Wang and Boyang Li and Mingzhao Wang and Xuan Wu and Changliang Zhou and You Zhou},
   year      = {2024},
-  title     = {Accelerating Primal Solution Findings for Mixed Integer Programs Based on Solution Prediction},
+  title     = {Distilling Autoregressive Models to Obtain High-Performance Non-Autoregressive Solvers for Vehicle Routing Problems with Faster Inference Speed},
   booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
 }
 
