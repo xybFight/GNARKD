@@ -1,7 +1,7 @@
 <h1 align="center"> Distilling Autoregressive Models to Obtain High-Performance Non-Autoregressive Solvers for Vehicle Routing Problems with Faster Inference Speed </h1>
 
 
-The PyTorch Implementation of *AAAI 2024 -- "Distilling Autoregressive Models to Obtain High-Performance Non-Autoregressive Solvers for Vehicle Routing Problems with Faster Inference Speed"*.
+The PyTorch Implementation of *AAAI 2024 -- "Distilling Autoregressive Models to Obtain High-Performance Non-Autoregressive Solvers for Vehicle Routing Problems with Faster Inference Speed"*[pdf](https://arxiv.org/abs/2312.12469).
 
 <p align="center"><img src="./imgs/main.jpg" width=95%></p>
 
@@ -42,5 +42,21 @@ The detail performance is as follows.
 
 If you find our paper and code useful, please cite our paper:
 
+```tex
+@misc{Xiao2023,
+      title={Distilling Autoregressive Models to Obtain High-Performance Non-Autoregressive Solvers for Vehicle Routing Problems with Faster Inference Speed}, 
+      author={Yubin Xiao and Di Wang and Boyang Li and Mingzhao Wang and Xuan Wu and Changliang Zhou and You Zhou},
+      year={2023},
+      eprint={2312.12469},
+      archivePrefix={arXiv},
+}
+```
+Or after the publication of the AAAI24 paper:
+```tex
+@inproceedings{Ding2020,
+  author={Yubin Xiao and Di Wang and Boyang Li and Mingzhao Wang and Xuan Wu and Changliang Zhou and You Zhou},
+  year      = {2024},
+  title     = {Accelerating Primal Solution Findings for Mixed Integer Programs Based on Solution Prediction},
+  booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
+}
 
-to be continue...
