@@ -52,11 +52,6 @@ If you find our paper and code useful, please cite our paper:
 }
 ```
 Or after the publication of the AAAI24 paper:
-```tex
-@inproceedings{Ding2020,
-  author={Yubin Xiao and Di Wang and Boyang Li and Mingzhao Wang and Xuan Wu and Changliang Zhou and You Zhou},
-  year      = {2024},
-  title     = {Distilling Autoregressive Models to Obtain High-Performance Non-Autoregressive Solvers for Vehicle Routing Problems with Faster Inference Speed},
-  booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
-}
+To be continued.
+
 
