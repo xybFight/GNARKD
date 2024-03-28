@@ -43,15 +43,17 @@ The detail performance is as follows.
 If you find our paper and code useful, please cite our paper:
 
 ```tex
-@misc{Xiao2023,
-      title={Distilling Autoregressive Models to Obtain High-Performance Non-Autoregressive Solvers for Vehicle Routing Problems with Faster Inference Speed}, 
-      author={Yubin Xiao and Di Wang and Boyang Li and Mingzhao Wang and Xuan Wu and Changliang Zhou and You Zhou},
-      year={2023},
-      eprint={2312.12469},
-      archivePrefix={arXiv},
-}
+@InProceedings{GNARKD2024, 
+              author={Xiao, Yubin and Wang, Di and Li, Boyang and Wang, Mingzhao and Wu, Xuan and Zhou, Changliang and Zhou, You}, 
+              title = {Distilling Autoregressive Models to Obtain High-Performance Non-autoregressive Solvers for Vehicle Routing Problems with Faster Inference Speed}, 
+              volume={38}, 
+              number={18}, 
+              booktitle={Proceedings of the AAAI Conference on Artificial Intelligence}, 
+              year={2024}, 
+              pages={20274-20283},
+              DOI={10.1609/aaai.v38i18.30008}, }
 ```
-Or after the publication of the AAAI24 paper:
-To be continued.
+We purchased an additional page, but it still wasn't enough to fully show our work. Please refer to the [Arxiv version](https://arxiv.org/abs/2312.12469) for all content. 
+
 
 
